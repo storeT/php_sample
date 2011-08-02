@@ -1,6 +1,6 @@
 <?php
 
-echo "Hellow, Daiki!";
-echo "fuck you!";
+echo "fuck you Mr.gay !";
 
 ?>
+    
