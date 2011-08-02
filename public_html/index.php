@@ -1,6 +1,6 @@
 <?php
 
-echo "fuck you Mr.gay !";
+echo "Be Good men!";
 
 ?>
     
